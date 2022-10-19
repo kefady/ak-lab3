@@ -1,0 +1,4 @@
+/home/kefady/ak-lab3/Ninja/CMakeFiles/SharedLibrary.dir
+/home/kefady/ak-lab3/Ninja/CMakeFiles/CMakeApp.dir
+/home/kefady/ak-lab3/Ninja/CMakeFiles/edit_cache.dir
+/home/kefady/ak-lab3/Ninja/CMakeFiles/rebuild_cache.dir

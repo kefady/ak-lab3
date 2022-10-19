@@ -1,0 +1,4 @@
+/home/kefady/ak-lab3/CMakeBuild/CMakeFiles/SharedLibrary.dir
+/home/kefady/ak-lab3/CMakeBuild/CMakeFiles/CMakeApp.dir
+/home/kefady/ak-lab3/CMakeBuild/CMakeFiles/edit_cache.dir
+/home/kefady/ak-lab3/CMakeBuild/CMakeFiles/rebuild_cache.dir

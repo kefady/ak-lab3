@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -rdynamic CMakeFiles/CMakeApp.dir/main.cpp.o -o CMakeApp  -Wl,-rpath,/home/kefady/ak-lab3/Ninja libSharedLibrary.so 
